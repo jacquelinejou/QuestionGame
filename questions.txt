@@ -1,0 +1,30 @@
+Q:
+Is it an animal?
+Q:
+Can it fly?
+Q:
+Is your animal nocturnal?
+A:
+bat
+A:
+bird
+Q:
+Does it have a tail?
+A:
+mouse
+A:
+spider
+Q:
+Does it have wheels?
+Q:
+Does your object need gas?
+A:
+car
+A:
+bicycle
+Q:
+Is it nice?
+A:
+TA
+A:
+teacher
